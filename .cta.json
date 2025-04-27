@@ -1,0 +1,16 @@
+{
+  "framework": "react",
+  "typescript": true,
+  "projectName": "unitask",
+  "mode": "file-router",
+  "tailwind": true,
+  "packageManager": "bun",
+  "toolchain": "biome",
+  "variableValues": {},
+  "git": true,
+  "version": 1,
+  "existingAddOns": [
+    "shadcn",
+    "t3env"
+  ]
+}
